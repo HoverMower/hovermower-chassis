@@ -1,5 +1,6 @@
 # hovermower-chassis
-3D printable chassis for HoverMower
+3D printable chassis for HoverMower.
+HoverMower is a robot lawn mower build out of Hoverboard parts
 
 For build instructions, please visit https://hovermower.github.io
 
